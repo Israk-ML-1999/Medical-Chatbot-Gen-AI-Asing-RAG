@@ -1,0 +1,14 @@
+sentence-transformers
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchain_openai
+langchain_experimental
+-e .
+Flask
+openai
+langchain
+dotenv
+requests==2.28.1
