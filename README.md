@@ -26,6 +26,13 @@ A powerful and intelligent medical chatbot built using cutting-edge technologies
 5. Passes context to LLaMA 3 via Groq API.
 6. Returns context-aware response.
 
+
+#Demo
+
+![Image](https://github.com/user-attachments/assets/3cb46117-5825-4d8b-930b-af7468ef63e0)
+
+![Image](https://github.com/user-attachments/assets/3cb76a7f-6e83-4e02-b93c-e2aa63be2138)
+
 # How to run?
 ### STEPS:
 
@@ -69,3 +76,5 @@ python app.py
 Now,
 ```bash
 open up localhost:
+
+
